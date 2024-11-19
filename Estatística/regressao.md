@@ -6,7 +6,7 @@ A regressão foi introduzida por Sir Francis Galton no final do século XIX enqu
 Os algoritmos de regressão são importantes para extração de informação de dados, bastante utilizada quando se deseja prever valores a partir de uma ou mais variáveis explicativas.
 A regressão, em termos gerais, refere-se a qualquer método que tenta modelar e compreender a relação entre uma variável dependente (ou resposta) e uma ou mais variáveis independentes (ou preditoras). Pode ser linear ou não-linear, paramétrica ou não-paramétrica, etc.
 
-![Tópicos](https://github.com/katerine-dev/jurimetria-estudos/raw/main/docs/topicos.png)[^imagem_1]
+![Tópicos](https://github.com/katerine-dev/jurimetria-estudos/blob/main/Docs/topicos.png)[^imagem_1]
 
 ## Principais técnicas de algoritmos de regressão:
 
@@ -18,11 +18,11 @@ Regressão linear é uma técnica que assume que a relação entre a variável d
 
 1. Regressão linear Simples: temos somente uma variável independente (X) para fazermos a predição. Consiste em achar uma reta que relacione duas variáveis quantitativas.
 
-![Regressão Simples](/docs/regressao-simples.png)
+![Regressão Simples](https://github.com/katerine-dev/jurimetria-estudos/blob/main/Docs/regressao-simples.png)
 
 Veja a seguir um exemplo gráfico de um modelo de uma regressão linear simples (quando temos duas variáveis e a relação entre elas pode ser representada por uma linha reta):
 
-![Gráfico regressão linear simples](/docs/grafico-simples.png)[^imagem_2]
+![Gráfico regressão linear simples](https://github.com/katerine-dev/jurimetria-estudos/blob/main/Docs/grafico-simples.png)[^imagem_2]
 
 Podemos analisar o resultado da regressão avaliando os valores reais e os valores preditos através da reta de regressão.
 
