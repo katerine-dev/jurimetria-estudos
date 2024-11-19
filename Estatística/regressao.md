@@ -6,7 +6,7 @@ A regressão foi introduzida por Sir Francis Galton no final do século XIX enqu
 Os algoritmos de regressão são importantes para extração de informação de dados, bastante utilizada quando se deseja prever valores a partir de uma ou mais variáveis explicativas.
 A regressão, em termos gerais, refere-se a qualquer método que tenta modelar e compreender a relação entre uma variável dependente (ou resposta) e uma ou mais variáveis independentes (ou preditoras). Pode ser linear ou não-linear, paramétrica ou não-paramétrica, etc.
 
-![Tópicos](/docs/topicos.png)[^imagem_1].
+![Tópicos](https://github.com/katerine-dev/jurimetria-estudos/raw/main/docs/topicos.png)[^imagem_1]
 
 ## Principais técnicas de algoritmos de regressão:
 
@@ -22,7 +22,7 @@ Regressão linear é uma técnica que assume que a relação entre a variável d
 
 Veja a seguir um exemplo gráfico de um modelo de uma regressão linear simples (quando temos duas variáveis e a relação entre elas pode ser representada por uma linha reta):
 
-![Gráfico regressão linear simples](/docs/grafico-simples.png)[^imagem_2].
+![Gráfico regressão linear simples](/docs/grafico-simples.png)[^imagem_2]
 
 Podemos analisar o resultado da regressão avaliando os valores reais e os valores preditos através da reta de regressão.
 
@@ -38,7 +38,7 @@ Na fórmula acima temos duas variáveis preditoras e seus betas. Dando continuid
 
 Na figura abaixo conseguimos comparar o algoritmo da regressão linear Simples para Regressão Linear Múltipla:
 
-![Comparação entre Regressão Linear Simples e Múltipla](/docs/comparacao-multipla-simples.png)[^imagem_3].
+![Comparação entre Regressão Linear Simples e Múltipla](/docs/comparacao-multipla-simples.png)[^imagem_3]
 
 ## Regressão com Random Forest
 
@@ -52,7 +52,7 @@ O Random Forest é um modelo versátil, semelhante às árvores de decisão, ade
 
 O “Extreme Gradient Boosting” (XGBoost) , é uma técnica avançada de aprendizado de máquina baseada em árvores de decisão que utiliza a estrutura de Gradient boosting[^comentario_2]. Ele combina técnicas de otimização do uso do software e hardware, como, por exemplo, técnicas que ajudam a evitar *overfitting* (ajuste excessivo)  e produz resultados superiores usando menos recursos de computação.
 
-![Regressão com XGBoost](/docs/regressao-xgboost.png)[^imagem_5].
+![Regressão com XGBoost](/docs/regressao-xgboost.png)[^imagem_5]
 
 ### Descrição do funcionamento do algoritmo:
 
@@ -81,7 +81,7 @@ As suposições de regressão linear incluem a existência de uma relação line
 
 ### Áreas de aplicação:
 
-Os modelos de regressão são ferramentas poderosas e flexíveis para análise preditiva e descritiva, permitindo a compreensão e previsão de relações complexas entre variáveis. 
+Os modelos de regressão são ferramentas poderosas e flexíveis para análise preditiva e descritiva, permitindo a compreensão e previsão de relações complexas entre variáveis.
 
 Esse algoritmo pode ser utilizado em qualquer problema, onde as variáveis de entrada e saída são valores contínuos, como, por exemplo:
 
