@@ -30,21 +30,21 @@ Podemos analisar o resultado da regressão avaliando os valores reais e os valor
 
 Na Regressão Linear Múltipla, a fórmula é bem parecida, só vamos acrescentar outras variáveis preditoras:
 
-![Fórmula Regressão Linear Múltipla](/docs/formula-regressao-multipla.png)
+![Fórmula Regressão Linear Múltipla](https://github.com/katerine-dev/jurimetria-estudos/blob/main/Docs//formula-regressao-multipla.png)
 
 Na fórmula acima temos duas variáveis preditoras e seus betas. Dando continuidade a este modelo, podemos ter quantas variáveis preditoras quanto quisermos:
 
-![Fórmula Regressão Linear Múltipla - Multiplas variáveis](/docs/formula-regressao-multipla-2.png)
+![Fórmula Regressão Linear Múltipla - Multiplas variáveis](https://github.com/katerine-dev/jurimetria-estudos/blob/main/Docs/formula-regressao-multipla-2.png)
 
 Na figura abaixo conseguimos comparar o algoritmo da regressão linear Simples para Regressão Linear Múltipla:
 
-![Comparação entre Regressão Linear Simples e Múltipla](/docs/comparacao-multipla-simples.png)[^imagem_3]
+![Comparação entre Regressão Linear Simples e Múltipla](https://github.com/katerine-dev/jurimetria-estudos/blob/main/Docs/comparacao-multipla-simples.png)[^imagem_3]
 
 ## Regressão com Random Forest
 
 Consiste em uma técnica de aprendizado de máquina que utiliza a construção de múltiplas árvores de decisão (Geralmente treinados com o método de Bagging)[^comentario_1]. para modelar e prever uma variável contínua. A ideia principal do método é criar combinações de modelos que aumentem o resultado do sinal. Um dos principais benefícios de se trabalhar com esse algoritmo é a possibilidade de se trabalhar com um grande conjunto de dados de maior dimensão.
 
-![Random Forest Simplified](/docs/random-forest-simplified.png)[^imagem_4].
+![Random Forest Simplified](https://github.com/katerine-dev/jurimetria-estudos/blob/main/Docs/random-forest-simplified.png)[^imagem_4].
 
 O Random Forest é um modelo versátil, semelhante às árvores de decisão, adequado tanto para tarefas de classificação quanto de regressão. Ele possui viés e variância reduzidos, resultando em melhores e mais consistentes resultados, além de oferecer robustez ao modelo. 
 
@@ -52,7 +52,7 @@ O Random Forest é um modelo versátil, semelhante às árvores de decisão, ade
 
 O “Extreme Gradient Boosting” (XGBoost) , é uma técnica avançada de aprendizado de máquina baseada em árvores de decisão que utiliza a estrutura de Gradient boosting[^comentario_2]. Ele combina técnicas de otimização do uso do software e hardware, como, por exemplo, técnicas que ajudam a evitar *overfitting* (ajuste excessivo)  e produz resultados superiores usando menos recursos de computação.
 
-![Regressão com XGBoost](/docs/regressao-xgboost.png)[^imagem_5]
+![Regressão com XGBoost](https://github.com/katerine-dev/jurimetria-estudos/blob/main/Docs/regressao-xgboost.png)[^imagem_5]
 
 ### Descrição do funcionamento do algoritmo:
 

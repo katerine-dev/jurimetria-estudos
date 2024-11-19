@@ -150,7 +150,7 @@ Banco de dados utilizado:
 
 A base utilizada foi encontrada no site Kaggle Datasets, ela é composta por 22 colunas, e 2938 linhas. Para realizar as análises foi necessário uma "faxina dos dados". Limpando nomes de colunas, tirando informações de `Null` e vazios. Abaixo Você pode visualizar as informações das colunas e types:
 
-![Colunas Life Expectancy](/docs/informacoes-colunas.png)
+![Colunas Life Expectancy](https://github.com/katerine-dev/jurimetria-estudos/blob/main/Docs/informacoes-colunas.png)
 
 ## Referências:
 
