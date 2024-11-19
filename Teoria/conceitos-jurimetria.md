@@ -1,4 +1,4 @@
-# Resumo sobre Jurimetria e seus conceitos.
+# Resumo sobre Jurimetria e seus conceitos
 
 Material de apoio para estudo avançado sobre Jurimetria.
 
@@ -55,3 +55,71 @@ Criação de dados: Pesquisadores frequentemente criam variáveis a partir de da
 
 Implicações para IA:
 A compreensão do processo de geração de dados é crucial para avaliar a eficácia de algoritmos de IA usados em análises jurídicas.
+
+Amostragem e População
+
+Amostragem probabilística: Utiliza randomização para garantir que a amostra reflita a distribuição da população. Evita vieses sistemáticos, como seleção enviesada por critérios subjetivos.
+
+Erro e viés: Erros aleatórios são naturais em amostragens, mas vieses sistemáticos comprometem os resultados.
+
+Tamanho da amostra: O aumento do tamanho da amostra reduz os erros, mas recursos e tempo limitados exigem equilíbrio entre precisão e viabilidade.
+
+4. Amostragem e Randomização
+
+Importância da Randomização:
+
+- A randomização garante que os resultados obtidos na amostra sejam representativos da população.
+- Evita vieses e confounding effects, promovendo maior confiabilidade nas inferências realizadas.
+
+Exemplos de Falta de Randomização:
+
+- Estudo sobre condenados no sistema penal: Amostrar apenas réus condenados gera vieses, pois exclui pessoas não detectadas ou processadas.
+- Dados sobre violência doméstica: Bases geradas por boletins de ocorrência subestimam a prevalência devido à subnotificação por medo ou desconfiança.
+- Distribuição de processos judiciais: A ausência de randomização na escolha de juízes pode favorecer partes mais influentes (forum shopping - "O forum shopping é um efeito que acontece no Direito internacional em decorrência do conflito positivo de competências entre as jurisdições de mais de um país. Neste caso, não é que o processo não será distribuído aleatoriamente para um juízo; o problema é com a jurisdição.").
+
+Impacto da Randomização em IA: Bases enviesadas impactam o desempenho, como no caso de algoritmos incapazes de reconhecer rostos de pessoas negras devido à predominância de dados de rostos brancos.
+
+5. Tipos de Amostragem
+
+- Amostragem Aleatória Simples:
+
+  - Processo básico que seleciona observações de forma totalmente aleatória, sem seguir padrões. Exemplo em jurimetria: análise de processos em determinada vara, selecionando casos de um conjunto populacional muito amplo (e.g., 10 mil processos) para uma análise viável.
+
+- Viés e Erro na Amostragem:
+
+  - Erro aleatório: Inerente ao processo, não compromete a validade desde que seja distribuído aleatoriamente.
+
+  - Viés sistemático: Introduzido por critérios não aleatórios, como a estratificação inadequada, distorce resultados.
+
+- Tamanho da Amostra:
+  - Aumentar o tamanho reduz o erro, mas há limitações práticas de tempo e custo.
+  - O ideal é balancear precisão e viabilidade, ajustando o tamanho da amostra para minimizar erros.
+
+6. Viés de Seleção em Processos Judiciais
+
+Definição: Diferença entre os dados observados e a população que se deseja estudar Relacionado ao mecanismo de seleção que determina quais casos entram na base de dados.
+
+["Viés de seleção é um tipo de viés estatístico, indicando uma diferença entre os indivíduos que estamos estudando na base de dados de dados e a população que desejamos estudar. Coloquialmente, viés de seleção é uma forma de dizer que estamos tirando conclusões sobre bananas ao estudar maçãs."](https://livro.abj.org.br/02-planejamento.html)
+
+Exemplos Clássicos:
+
+- Covid-19: Dados hospitalares superestimam a letalidade devido à exclusão de casos leves.
+- Aviação militar: Proteção nas asas foi priorizada devido ao foco em aviões que retornaram, ignorando os destruídos.
+
+Viés em Litígios Judiciais: A escolha de litigar depende das expectativas das partes (ex.: probabilidade de ganho) e dos custos envolvidos. A condição LPG (Landes-Posner-Gould) determina que processos ocorrem apenas quando a diferença de expectativas supera os custos relativos.
+
+7. Teorema de Priest e Klein (1984)
+
+Conceitos Centrais: Em litígios, as partes possuem níveis assimétricos de informação sobre mérito e custos. Conflitos com maior simetria informacional têm maior probabilidade de resultar em acordos, deixando casos mais incertos para litígio.
+
+Implicações:
+
+- Taxa de vitórias em torno de 50%:
+- Observada devido à seleção de casos com mérito limítrofe para litígios.
+- Inferências sobre o judiciário:
+- Taxas de vitória devem ser analisadas com cautela; valores muito altos ou baixos indicam potenciais distorções nos custos ou assimetrias de informação.
+
+Relevância:
+
+- Ajuda a compreender a dinâmica de seleção de litígios e os impactos na eficiência do sistema judiciário.
+- Orienta estudos empíricos sobre proporções de vitória e efeitos de mudanças legislativas.
