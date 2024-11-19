@@ -152,7 +152,6 @@ A base utilizada foi encontrada no site Kaggle Datasets, ela é composta por 22 
 
 ![Colunas Life Expectancy](/docs/informacoes-colunas.png)
 
-
 ## Referências:
 
-- [^comentario_1]: Fonte:  GALARNYK, M. Train Test Split: What it Means and How to Use It | Built In. Disponível em: <https://builtin.com/data-science/train-test-split>. Acesso em 25 de Maio de 2023.
+[^comentario_1]: Fonte:  GALARNYK, M. Train Test Split: What it Means and How to Use It | Built In. Disponível em: <https://builtin.com/data-science/train-test-split>. Acesso em 25 de Maio de 2023.

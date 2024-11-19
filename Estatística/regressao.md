@@ -102,30 +102,30 @@ Esse algoritmo pode ser utilizado em qualquer problema, onde as variáveis de en
 
 ## Referências:
 
-- [^imagem_1]: Fonte: OLIVEIRA, A.; ARAUJO, C.; JANAILDA, I. Análise de Regressão Tópicos em Avaliação de Desempenho de Sistemas. [s.l: s.n.]. Disponível em:
+[^imagem_1]: Fonte: OLIVEIRA, A.; ARAUJO, C.; JANAILDA, I. Análise de Regressão Tópicos em Avaliação de Desempenho de Sistemas. [s.l: s.n.]. Disponível em:
 <https://www.modcs.org/wp-content/uploads/2015/12/Analise%20de%20Regressao.pdf>.
 
-- [^imagem_2]: Fonte: FAGNA, M. 6 Machine Learning - Regressão | Tutorial Shiny com Machine Learning usando Tidymodels (em desenvolvimento). Disponível em:
+[^imagem_2]: Fonte: FAGNA, M. 6 Machine Learning - Regressão | Tutorial Shiny com Machine Learning usando Tidymodels (em desenvolvimento). Disponível em:
 <https://bookdown.org/fagna/_machine_learning_shiny_tutorial/machine-learning---regress%C3%A3ohtml#regress%C3%A3o-linear>. Acesso em: 20 maio. 2024.
 
-- [^imagem_3]: Fonte: GORI, E. Regressão Linear Múltipla Ementa: • Definição; • Estimadores Mínimos de Mínimos Ordinários; • Teorema de Gauss-Markov. [s.l: s.n.]. Disponível em:
+[^imagem_3]: Fonte: GORI, E. Regressão Linear Múltipla Ementa: • Definição; • Estimadores Mínimos de Mínimos Ordinários; • Teorema de Gauss-Markov. [s.l: s.n.]. Disponível em:
 <https://www4.eco.unicamp.br/docentes/gori/images/arquivos/EconometriaIEconometria_RegressaoMultipla.pdf>.
 
-- [^comentario_1]: "A técnica de bootstrap que vimos anteriormente pode ser extremamente útil para o cálculo de desvio-padrão em situações onde isso pode não ser possível. Já aqui, vamos ver o emprego dessa técnica com o intuito de aumentar a performance de métodos de aprendizado como as árvores de decisão." FILHO, L. H. B. Bagging, Random Forests e Boosting. Disponível em:
+[^comentario_1]: "A técnica de bootstrap que vimos anteriormente pode ser extremamente útil para o cálculo de desvio-padrão em situações onde isso pode não ser possível. Já aqui, vamos ver o emprego dessa técnica com o intuito de aumentar a performance de métodos de aprendizado como as árvores de decisão." FILHO, L. H. B. Bagging, Random Forests e Boosting. Disponível em:
 <https://analisemacro.com.br/economia/macroeconometria/bagging-random-forests-e-boosting/>. Acesso em: 20 maio. 2024.
 
-- [^imagem_4]: Fonte: ESTATSITE.COM.BR. Disponível em:
+[^imagem_4]: Fonte: ESTATSITE.COM.BR. Disponível em:
 <https://estatsite.com.br/>. Acesso em: 20 maio. 2024.
 
-- [^comentario_2]: "O gradient boosting é uma técnica de aprendizado de máquina para problemas de regressão e classificação, que produz um modelo de previsão na forma de um ensemble de modelos de previsão fracos, geralmente árvores de decisão. Ela constrói o modelo em etapas, como outros métodos de boosting, e os generaliza, permitindo a otimização de uma função de perda diferenciável arbitrária." Gradient boosting. Disponível em:
+[^comentario_2]: "O gradient boosting é uma técnica de aprendizado de máquina para problemas de regressão e classificação, que produz um modelo de previsão na forma de um ensemble de modelos de previsão fracos, geralmente árvores de decisão. Ela constrói o modelo em etapas, como outros métodos de boosting, e os generaliza, permitindo a otimização de uma função de perda diferenciável arbitrária." Gradient boosting. Disponível em:
 <https://pt.wikipedia.org/wiki/Gradient_boosting>. Acesso em: 20 maio. 2024.
 
-- [^imagem_5]: Fonte: FAGNA, M. 6 Machine Learning - Regressão | Tutorial Shiny com Machine Learning usando Tidymodels (em desenvolvimento). Disponível em:
+[^imagem_5]: Fonte: FAGNA, M. 6 Machine Learning - Regressão | Tutorial Shiny com Machine Learning usando Tidymodels (em desenvolvimento). Disponível em:
 <https://bookdown.org/fagna/_machine_learning_shiny_tutorial/machine-learning---regress%C3%A3o.html#regress%C3%A3o-linear>. Acesso em: 20 maio. 2024.
 
-- [^comentario_3]: "Os outliers são dados que se diferenciam drasticamente de todos os outros. Em outras palavras, um outlier é um valor que foge da normalidade e que pode (e provavelmente irá) causar anomalias nos resultados obtidos por meio de algoritmos e sistemas de análise." ANALYTICS, A. A. Outliers, o que são e como tratá-los em uma análise de dados? Disponível em:
+[^comentario_3]: "Os outliers são dados que se diferenciam drasticamente de todos os outros. Em outras palavras, um outlier é um valor que foge da normalidade e que pode (e provavelmente irá) causar anomalias nos resultados obtidos por meio de algoritmos e sistemas de análise." ANALYTICS, A. A. Outliers, o que são e como tratá-los em uma análise de dados? Disponível em:
 <https://aquare.la/o-que-sao-outliers-e-como-trata-los-em-uma-analise-de-dados/>.
 
-- [^comentario_4]: "Homocedasticidade refere-se à variância constante dos resíduos." HOMOCEDASTICIDADE NA ANÁLISE DE REGRESSÃO EM AVALIAÇÕES IMOBILIÁRIAS: A IMPORTÂNCIA DA VARIÂNCIA CONSTANTE DOS RESÍDUOS – Escola do Avaliador – Cursos e Treinamentos de Avaliação de Imóveis. Disponível em: <https://escoladoavaliador.com.br/2024/02/01/homocedasticidade-na-analise-de-regressao-em-avaliacoes-imobiliarias-a-importancia-da-variancia-constante-dos-residuos/#:~:text=Import%C3%A2ncia%20da%20Vari%C3%A2ncia%20Constante%3A%20Homocedasticidade>. Acesso em: 20 maio. 2024.
+[^comentario_4]: "Homocedasticidade refere-se à variância constante dos resíduos." HOMOCEDASTICIDADE NA ANÁLISE DE REGRESSÃO EM AVALIAÇÕES IMOBILIÁRIAS: A IMPORTÂNCIA DA VARIÂNCIA CONSTANTE DOS RESÍDUOS – Escola do Avaliador – Cursos e Treinamentos de Avaliação de Imóveis. Disponível em: <https://escoladoavaliador.com.br/2024/02/01/homocedasticidade-na-analise-de-regressao-em-avaliacoes-imobiliarias-a-importancia-da-variancia-constante-dos-residuos/#:~:text=Import%C3%A2ncia%20da%20Vari%C3%A2ncia%20Constante%3A%20Homocedasticidade>. Acesso em: 20 maio. 2024.
 
-- [^comentario_5]: "Multicolinearidade consiste em um problema comum em regressões, no qual as variáveis independentes possuem relações lineares exatas ou aproximadamente exatas." Multicolinearidade. Disponível em: <https://pt.wikipedia.org/wiki/Multicolinearidade>.
+[^comentario_5]: "Multicolinearidade consiste em um problema comum em regressões, no qual as variáveis independentes possuem relações lineares exatas ou aproximadamente exatas." Multicolinearidade. Disponível em: <https://pt.wikipedia.org/wiki/Multicolinearidade>.
